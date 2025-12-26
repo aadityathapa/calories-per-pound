@@ -1,0 +1,21 @@
+Food,Category,Price (£),Weight (g),Calories per 100g,Protein per 100g
+Chicken Breast,Protein,6.5,950,115,21.5
+Eggs,Protein,2.8,624,131,12.6
+Canned Tuna,Protein,0.65,145,109,24.9
+Chicken Thigh,Protein,6.95,1000,161,18.3
+Minced Chicken,Protein,2.49,500,117,18.9
+Lentils,Protein,2.5,1000,96,7.3
+Chickpeas,Protein,0.49,400,125,7.8
+Red Kidney Beans,Protein,0.45,400,96,6.8
+White Rice,Carbs,1.25,1000,137,3
+Pasta,Carbs,1.29,1000,158,5.8
+Potatoes,Carbs,2.3,2000,82,2.1
+Oats,Carbs,0.85,1000,376,11
+White Bread,Carbs,0.74,800,240,8.4
+Instant Noodles,Carbs,0.39,100,136,2.8
+Yogurt,Dairy,1.95,1000,99,3.7
+Cheese,Dairy,3.35,400,416,25.4
+Peanut Butter,Dairy,1.1,340,633,24.5
+Frozen Mixed Vegetables,Extra,0.99,1000,57,3.7
+Spinach,Extra,1.15,250,19,2.6
+Carrots,Extra,0.69,1000,41,0.5
